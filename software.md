@@ -11,8 +11,8 @@ only for shareable source code; for linking to binaries, etc., please submit
 link to ISMRM for the "Links of Interest" software site.
  
 ## Stanford:
- [https://www.stanford.edu/group/bmr/cgi-bin/mediawiki/index.php/Software](https://www.stanford.edu/group/bmr/cgi-bin/mediawiki/index.php/Software)
- [http://rsl.stanford.edu/research/software.html](http://rsl.stanford.edu/research/software.html)
+ [https://www.stanford.edu/group/bmr/cgi-bin/mediawiki/index.php/Software](https://www.stanford.edu/group/bmr/cgi-bin/mediawiki/index.php/Software) <br>
+ [http://rsl.stanford.edu/research/software.html](http://rsl.stanford.edu/research/software.html) <br>
  [http://www-mrsrl.stanford.edu/links.html](http://www-mrsrl.stanford.edu/links.html)
 
 ## Jeff Fessler, University of Michigan
@@ -21,14 +21,17 @@ link to ISMRM for the "Links of Interest" software site.
 ## Miki Lustig, University of California Berkeley
  [http://www.eecs.berkeley.edu/~mlustig/Software.html](http://www.eecs.berkeley.edu/~mlustig/Software.html)
 
-## AGILE, open source GPU code for reconstruction
+## AGILE
+ open source GPU code for reconstruction <br>
  [http://www.cai2r.net/resources/software](http://www.cai2r.net/resources/software)
 
 ## Berkin Bilgic, MIT
  [http://martinos.org/~berkin/software.html](http://martinos.org/~berkin/software.html)
 
-## Forschungszentrum Juelich GmbH (open source MRI simulator and recon/pulse design code)
- [www.jemris.org](www.jemris.org)
+## JEMRIS & CODEARE
+ open source MRI simulator and recon/pulse design code <br>
+ Forschungszentrum Juelich, GmbH <br>
+ [www.jemris.org](www.jemris.org) <br>
  [www.codeare.org](www.codeare.org)
 
 ## Leslie Ying, SUNY-Buffalo
@@ -37,20 +40,30 @@ link to ISMRM for the "Links of Interest" software site.
 ## Justin Haldar, USC
  [http://mr.usc.edu/code.html](http://mr.usc.edu/code.html)
 
-## Brad Sutton, IMPATIENT MRI: (recon for GPU)
+## IMPATIENT MRI: Recon for GPU
+ Brad Sutton <br>
  [http://impact.crhc.illinois.edu/mri.aspx](http://impact.crhc.illinois.edu/mri.aspx)
 
-## Matthews Jacob, University of Iowa - MATLAB recon code
+## MATLAB recon code
+ Matthews Jacob, University of Iowa <br>
  [http://research.engineering.uiowa.edu/cbig/content/software](http://research.engineering.uiowa.edu/cbig/content/software)
 
-## Tobias Block, NYU- Yarra software platform for reconstruction
+## Yarra
+ Software Platform for Reconstruction <br>
+ Tobias Block, NYU <br>
  [http://ktblock.de/yarra/](http://ktblock.de/yarra/)
 
-## Nick Zwart, Barrow Neurological Institute - GPI, an open-source graphical prototyping environment for reconstruction and more 
+## GPI
+ An open-source graphical prototyping environment for reconstruction and more. <br>
+ Nick Zwart, Barrow Neurological Institute <br>
  [http://gpilab.com](http://gpilab.com)
   
-## Daniel Messroghli, Charité Campus Buch, Universitätsmedizin Berlin. MRmap, opensource software for parametric MRI.
+## MRmap 
+ Opensource software for parametric MRI. <br>
+ Daniel Messroghli, Charité Campus Buch, Universitätsmedizin Berlin <br>
  [http://sourceforge.net/projects/mrmap/](http://sourceforge.net/projects/mrmap/)
 
-## University Medical Center Freiburg - Pulseq, an open source framework for platform-independent MR pulse sequence development and execution
+## Pulseq 
+ An open source framework for platform-independent MR pulse sequence development and execution. <br>
+ University Medical Center Freiburg <br>
  [http://pulseq.github.io/](http://pulseq.github.io/)
