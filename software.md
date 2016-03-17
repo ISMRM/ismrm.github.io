@@ -74,4 +74,4 @@ link to ISMRM for the "Links of Interest" software site.
  [http://pulseq.github.io/](http://pulseq.github.io/)
 
 ### Past ISMRM Unbound Hosted Code
- http://ismrm.github.io/software/
+ [http://ismrm.github.io/software/](http://ismrm.github.io/software/)
