@@ -23,4 +23,4 @@ the night?” At press time, Apple consumers confirmed they would do their best
 with existing technology by wearing an Apple Watch and simply leaning their
 cheek against an iPad when they got lonely.
 
-http://www.theonion.com/article/apple-fans-demand-other-products-they-can-feel-dir-38174
+[http://www.theonion.com/article/apple-fans-demand-other-products-they-can-feel-dir-38174](http://www.theonion.com/article/apple-fans-demand-other-products-they-can-feel-dir-38174)
