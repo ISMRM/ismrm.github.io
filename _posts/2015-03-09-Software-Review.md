@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Software Review
+author: theonion.com
 ---
 
 Apple Fans Demand Other Products They Can Feel Directly Against Skin At All Times

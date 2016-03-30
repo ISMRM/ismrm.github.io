@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Welcome to the ISMRM Software & Data Exchange
+author: Nicholas Zwart
 ---
 
 Welcome to MRI Unbound, an ISMRM site dedicated to providing an infrastructure
