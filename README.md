@@ -1,4 +1,4 @@
-[![ismrm.github.io](ismrm_logo.png)](http://ismrm.github.io)
+[![ismrm.github.io](/images/ismrm_logo.png)](http://ismrm.github.io)
 
 Welcome to the ISMRM Software & Data Sharing Initiative website.  The nuts and
 bolts of the site are hosted via github-pages.  Here, you can join in on the
